@@ -1,2 +1,4 @@
-import os
+import sys
 
+vr = sys.platform
+print(vr)
