@@ -2,7 +2,4 @@
 
 General code review
 
-
-Test again
-
-fff
+Python exercises
