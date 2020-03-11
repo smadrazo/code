@@ -1,0 +1,37 @@
+Today's security posture is to assume breach and use the Zero Trust model. Security professionals no longer focus on perimeter defense. 
+verifiable user and device trust claims to grant access to organizational resources
+No longer is trust assumed based on the location inside an organization's perimeter.
+
+Principles
+
+Applications
+- Ensure applications are secure and free of vulnerabilities
+- Store sensitive application secrets in a secure storage medium
+ - Make security a design requirement for all application development
+Integrating security into the application development life cycle will help reduce the number of vulnerabilities introduced in code. Encourage all development teams to ensure their applications are secure by default. Make security requirements non-negotiable.
+
+Compute
+- Secure access to virtual machines
+- Implement endpoint protection and keep systems patched and current
+Malware, unpatched systems, and improperly secured systems open your environment to attacks. The focus in this layer is on making sure your compute resources are secure, and that you have the proper controls in place to minimize security issues.
+
+Networking
+- Limit communication between resources through segmentation and access controls
+- Deny by default
+- Restrict inbound internet access and limit outbound where appropriate
+ Implement secure connectivity to on-premises networks
+At this layer, the focus is on limiting the network connectivity across all your resources to only allow what is required. Segment your resources and use network level controls to restrict communication to only what is needed. By limiting this communication, you reduce the risk of lateral movement throughout your network.
+
+Perimeter
+- Use distributed denial-of-service (DDoS) protection to filter large-scale attacks before they can cause a denial of service for end users
+- Use perimeter firewalls to identify and alert on malicious attacks against your network
+At the network perimeter, it's about protecting from network-based attacks against your resources. Identifying these attacks, eliminating their impact, and alerting on them is important to keep your network secure.
+
+Identity & access
+- Control access to infrastructure, change control
+- Use single sign-on and multi-factor authentication
+- Audit events and changes
+The identity & access layer is all about ensuring identities are secure, and that access granted is only what is needed, and changes are logged.
+
+Physical security
+- Physical building security and controlling access to computing hardware within the data center is the first line of defense.
