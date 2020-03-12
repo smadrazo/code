@@ -1,17 +1,17 @@
 Achievements by specialty:
 - Network & Cloud Security
-    - Secure Web Gateway first deployment: Defined architecture, designs and approach for bringing to XOM the first pure SaaS Security stack to provide Internet Access services for the entire corporation during my path over CDSE
-    - Next Generation Proxy and Firewall
+    - Secure Web Gateway first deployment: Reference Architecture, designs and approach for bringing to XOM the first pure SaaS Security stack to provide Internet Access services for the entire corporation during my path over CDSE. Work re-utilize on the existing SWG implementation, and currently working as advisor for FI Gateway
+    - Next Generation Proxy and Firewall: Designed first full virtualized environment for the deployment of the next generation Proxy (Forcepoint), while performing the introduction of the Sourcefire as the NGFW for the corporation. Including new partition concept for DMZs, Sourcefire additional security features for implementation.
     - Outbound Internet Lite
-    - GRID
-    - Software Defined Perimeter POCs and Current reviewer
-    - Cloud Security Policy Management and Risk Management
-    - Azure Frontdoor Architecture
-    - Azure Inbound DMZ validation
-    - Cloud Cyber Security point of reference
-    - Network Automation security advisor
+    - GRID: Reference Architecture from Next Gen Proxy was leverage as the overal design for GRID. Advised on design modification (including additional segmentation), and additional partitions for the services included into this scope. Acted as a general advisor not only for designs and validation, but as well during it's full implementaion. Became a constant consultant for all Internet/DMZ environments.
+    - Software Defined Perimeter POCs and Current reviewer: Zero Trust started with the reference architecture for the Digital Services Gateway, which during CDSE and based on Beyond Corp, transformed into the existing approach with SDP by using Cyxtera. Created the reference models and architecture, after validating concepts and fit for purpose via validations with Google Identity Aware Proxy, Akamai Enterprise Application Access and Zscaler Private Access. That worked as reference on the work done with Cyxtera on Modern Workplace. Working today as FI reviewer of SDP implementation and new approaches by Modern Workplace.
+    - Cloud Security Policy Management and Risk Management: Worked to transform onprem processes around Security (ENCP/INCP) into evolve versions that are fit to use in modern environments like Cloud. Worked with MA&P creating the new workflows, that will enable not only an optimized process, but considering automation of security policies where fit for risk applies, reducing customer impact on operational turnarounds. Acting as the sole responsible for all reviews and endorsements on security policies between onprem and cloud. Assisting FI Gateway Policy as trusted partner for Outbound PORs from cloud, and enabling them to modified FI Gateway POR legacy systems, to modern apps with enabled capabilities for future deployment automation. 
+    - Azure Frontdoor Architecture: Reference Architecture to secure Azure disconnected applications and optimize flow, by utilizing Azure Frontdoor services for its WAF, SSL Offload and CDN capabilities. Developed designs for PaaS and IaaS services on disconnected. Validating efficacy with Cyber Security and the Vulnerability teams before moving into Production.
+    - Cloud Cyber Security point of reference: acting as MA&P security consulting reference for Cyber Security, guaranteeing NIST Cyber Framework is adapted and implemented on Cloud. Reviewing, communicating and transforming Cyber requirements into Features and capabilities that teams are delivering.  
+    - Cloud Security Patterns: Created first architectural draft for security patterns and capabilities, in alignment with Cyber Security requirements and NIST Standards. Working with Cyber Security, Architects and teams for further validation for its final release.
+    - Automation security advisor: Transforming current security models from the applications world, into guardrails and principles to be followed while enabling automation capabilities for FI. Detailing risk mitigations around OWASP for both code and APIs. Working with A&T Architects on its capabilities and how to transform existing processes for infrastructure code development. 
     Coming up:
-        - Security product evaluation for new capabilities & Cloud security 
+        - FI Security product evaluation for new capabilities & Cloud security: Gained consensus across FI, for new validation on security products with new capabilities not only from a security requirement perspective, but from the new cloud security approach. Worked with the industry, Vendors & Gartner, aligning where security is, and how it is evolving, to reduce technical debt, while enabling new security capabilities to reduce risk, operation reduction via automation and flexible scalability. 
 - Network Routing
     - SDWAN
     - GRID
@@ -24,12 +24,15 @@ Achievements by specialty:
     - Multi-Cloud Strategy & Connectivity
     - Auxiliary Copy Backups into Cloud Architecture
     - Azure Multi-Region Connectivity
+    - RGFX Cloud Validation (Disconnected/Connected)
+    - China 1: Advisor for Cloud strategy on China and assisting on finding factors to reduce overall latency for Cloud services out of China and inside China
 - Technical Career Advisor
     - Job Family rebump. Restructuring job roles and functional skills to a more comprehensive list. that FI can use for the connectivity Job Family
     - Pre S&D Council technical advisor: fulfilling the role of advising on career development, and guaranteeing that people are value on their technical expertise and career progression path
     - External Conferences: Generated oportunities for technical SMEs with XOM vendors to be able to present during their annual conferences (Red Hat OpenShift Commons Gathering https://commons.openshift.org/gatherings/BuenosAires_2019.html)
     - Technical leader advisor for the BA GBC on development and career oportunities for all EMIT
-
+    - FI Talent Strategy
+    - GBC Ambassador Program
 -Summary:
     - Architect and Design Secure IP Networks (Datacenter & Cloud)
     - TOGAF methodologies & Architectural Frameworks
